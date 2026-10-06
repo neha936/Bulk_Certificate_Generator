@@ -1,0 +1,14 @@
+{
+  "_comment": "Visual theme for the ReportLab certificate renderer. Edit colours and fonts here without touching Python code. Fonts must be ReportLab built-in Type 1 fonts unless a TTF is registered.",
+  "primary_color": "#1F3A5F",
+  "accent_color": "#C9A227",
+  "text_color": "#2E2E2E",
+  "muted_color": "#6B7280",
+  "background_color": "#FFFDF7",
+  "title_font": "Helvetica-Bold",
+  "name_font": "Times-BoldItalic",
+  "body_font": "Helvetica",
+  "title_text": "CERTIFICATE OF COMPLETION",
+  "name_max_font_size": 44,
+  "name_min_font_size": 22
+}
